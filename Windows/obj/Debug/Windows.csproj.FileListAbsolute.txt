@@ -1,0 +1,13 @@
+C:\Divine Programs\VS Projects\RateProj\Windows\bin\Debug\Windows.exe.config
+C:\Divine Programs\VS Projects\RateProj\Windows\bin\Debug\Windows.exe
+C:\Divine Programs\VS Projects\RateProj\Windows\bin\Debug\Windows.pdb
+C:\Divine Programs\VS Projects\RateProj\Windows\bin\Debug\RateProj.dll
+C:\Divine Programs\VS Projects\RateProj\Windows\bin\Debug\RateProj.pdb
+C:\Divine Programs\VS Projects\RateProj\Windows\obj\Debug\Windows.csproj.AssemblyReference.cache
+C:\Divine Programs\VS Projects\RateProj\Windows\obj\Debug\Windows.Form1.resources
+C:\Divine Programs\VS Projects\RateProj\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Divine Programs\VS Projects\RateProj\Windows\obj\Debug\Windows.csproj.GenerateResource.cache
+C:\Divine Programs\VS Projects\RateProj\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+C:\Divine Programs\VS Projects\RateProj\Windows\obj\Debug\Windows.csproj.Up2Date
+C:\Divine Programs\VS Projects\RateProj\Windows\obj\Debug\Windows.exe
+C:\Divine Programs\VS Projects\RateProj\Windows\obj\Debug\Windows.pdb
