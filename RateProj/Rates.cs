@@ -14,7 +14,8 @@ namespace Rate
         public static decimal SumRate(decimal t, decimal V, decimal k)
         {
             // comment for commit
-            //new comment for Задача 1
+            // new comment for Задача 1
+            // change for pull request
             return (V * t * (k / 100) + V);
         }
     }
